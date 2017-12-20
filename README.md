@@ -8,9 +8,9 @@ Installations: -
    npm install -g react-native-cli
 4. Start Android Emulator (Any Emulator).
 5. create new Project : -
-	  react-native init FirstAssignment
+	  react-native init J1
 6. Move to the directory : -
-  cd FirstAssignment
+  cd J1
 7. Install react-navigation and react-base : - 
 
 	npm install --save react-navigation,
